@@ -1,25 +1,23 @@
-# Privacy Notice
+# Jinzhou Heitang Network Technology Co., Ltd.
 
-Heitang Amazon Ads Analytics is an internal application used by Jinzhou Heitang Network Technology Co., Ltd. to retrieve Amazon Ads campaign and reporting data for internal business analysis.
+Jinzhou Heitang Network Technology Co., Ltd. is an e-commerce company based in China.
 
-## Information We Access
+We operate our own online retail business and use advertising and data analytics tools to manage and analyze our advertising performance.
 
-The application may access Amazon Ads campaign, targeting, search term, placement, advertised product, performance, and reporting data authorized by our Amazon advertising account.
+## Internal Advertising Analytics
 
-## How We Use Information
+We use internal data tools to retrieve advertising reporting data from our own advertising accounts for performance analysis, reporting, and optimization.
 
-The information is used solely for internal advertising reporting, performance analysis, and campaign optimization.
+This system is for our company's internal use only and is not offered as a service to third parties.
 
-## Data Sharing
+## Privacy Notice
 
-We do not sell Amazon advertising data or share it with unrelated third parties.
+Advertising data accessed by our internal analytics tools is used solely for internal business reporting, advertising analysis, and optimization.
 
-## Data Security
-
-Access to advertising data is limited to authorized personnel and internal systems used for business analytics.
+We do not sell advertising data or share it with unrelated third parties.
 
 ## Contact
 
-For privacy-related questions, please contact:
+Email: 15512420918@163.com
 
-15512420918@163.com
+
